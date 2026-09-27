@@ -1,0 +1,16 @@
+ZerOStore
+Copyright (c) 2026 Amer Zuher
+
+This repository contains only ZerOStore's own data: aliases between app store IDs and the results
+of testing apps on ZerOS. It does not contain or redistribute any app store recipe.
+
+ZerOS servers download these upstream stores themselves:
+
+  CasaOS App Store — https://github.com/IceWhaleTech/CasaOS-AppStore
+  Copyright IceWhale Technology. Licensed under the Apache License, Version 2.0.
+
+  Umbrel App Store — https://github.com/getumbrel/umbrel-apps
+  Copyright Umbrel, Inc. Published without a licence; not redistributed here.
+
+App names, icons and trademarks belong to their respective owners. ZerOStore is not affiliated
+with or endorsed by IceWhale Technology or Umbrel, Inc.
