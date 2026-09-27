@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-27T05:39:35Z",
+  "updatedAt": "2026-09-27T07:10:52Z",
   "aliases": {
     "umbrel.hermes-agent": "org.icewhale.hermes",
     "umbrel.node-red": "",
@@ -108,6 +108,12 @@
         "Installed, kept running and its web interface answered 200."
       ],
       "source": "install"
+    },
+    "gatewaygo": {
+      "status": "incompatible",
+      "notes": [
+        "It is a remote-access client for another home-server platform and does nothing on ZerOS."
+      ]
     },
     "gitea": {
       "status": "verified",

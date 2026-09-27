@@ -1,0 +1,12 @@
+{
+  "Media": "Stream your films, shows, music and photos to every screen in the house.",
+  "Files": "Store, sync and share your files, on your own disks.",
+  "Productivity": "Notes, documents, tasks and tools that keep your work in your hands.",
+  "Home": "Automate your home and see what your devices are doing.",
+  "Networking": "Reach your server from anywhere, block ads and keep an eye on your network.",
+  "AI": "Run language models, assistants and speech tools on your own hardware.",
+  "Finance": "Track budgets, subscriptions and money, and run your own node.",
+  "Social": "Chat, publish and connect without handing your data to a platform.",
+  "Developer": "Code, build, test and ship from your own server.",
+  "Others": "Everything else worth running at home."
+}
