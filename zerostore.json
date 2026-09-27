@@ -186,7 +186,7 @@
       "version": "3.8.2-patch.1",
       "testedAt": "2026-09-27T00:00:00Z",
       "notes": [
-        "Umbrel's recipe pins an image digest (kiwix-serve 3.8.2) that the registry no longer serves, so the image cannot be downloaded."
+        "Its recipe pins an image version (kiwix-serve 3.8.2) that the image registry no longer serves, so it cannot be downloaded."
       ]
     },
     "umbrel.librespeed": {
