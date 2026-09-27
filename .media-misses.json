@@ -1,0 +1,647 @@
+{
+ "at": {
+  "2fauth": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "akaunting": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "alistsync": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "anaconda3": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "anythingllm": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "arcane": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "autobrr": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "baikal": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "bark-wallet": {
+   "icon": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "bazarr": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "beaverhabittracker": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "bentopdf": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "bisq2-node": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "bitaxe-sentry": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "bitmagnet": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "booklore": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "btctracker": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "campfire": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "cashu-me": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "chatbotui": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "cloudbeaver": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "cobalt": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "code-server": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "copyparty": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "crafty": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "dcrdex": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "ddnsgo": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "ddnsupdater": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "deepsea": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "deepseekocrnvidia": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "domain-locker": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "donetick": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "dropgate-server": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "dtan-server": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "duckdns": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "dumbpad": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "ee-gateway": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "element": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "emby": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "embynvidia": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "emulatorjs": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "file-browser": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "filedrop": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "firefly": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "fizzy": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "flatnotes": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "foldergram": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "forgejo": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "fossflow": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "freshrss": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "gatewaygo": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "gitlab": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "glasshome": {
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "gopeed": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "grocy": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "gupt": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "habitica": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "handbrake": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "heimdall": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "holoplay": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "homarr": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "homebridge": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "homey": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "icewhalestablediffusionwebui": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "influxdb": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "influxdb2": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "invoice-ninja": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "ipfs-podcasting": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "ittools": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "jdownloader2": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "jellyseerr": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "jenkins": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "jupyterlab": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "kan": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "kimai": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "kitchenowl": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "kiwix": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "kokoro": {
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "komga": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "l-town": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "lazylibrarian": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "libreoffice": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "librephotos": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "lidarr": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "localai": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "lubelogger": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "lunalytics": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "lyrionmusicserver": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "mailarchiver": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "mainsail": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "mariadb": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "matter-server": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "mealie": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "medusa": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "meshchatx": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "mineosnode": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "minio": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "mongodb": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "mongodb4": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "mosquitto": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "motioneye": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "mqttx-web": {
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "mstream": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "music-assistant": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "mylar3": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "neko": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "netbird": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "networkingtoolbox": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "nostr-relay": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "nostrudel": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "nutstash-wallet": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "nzbfast": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "nzbget": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "octoprint": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "ombi": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "omnitools": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "opengist": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "openresty-manager": {
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "openthread-border-router": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "opodsync": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "originless": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "overseerr": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "paperless": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "passky-client": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "passky-server": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "pastefy": {
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "pdfding": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "pearcircle-seeder": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "petio": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "picoclaw": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "picsur": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "pingvin-share": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "playitagent": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "postgresql": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "privatebin": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "prowlarr": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "psitransfer": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "pyload-ng": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "rdtclient": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "readarr": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "readeck": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "readur": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "reitti": {
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "remmina": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "retroarch": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "rotki": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "route96": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "rustdesk-server": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "rusty-kaspad": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "sabnzbd": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "scanservjs": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "seafile": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "searxng": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "seedtool": {
+   "icon": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "shopstr": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "sickchill": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "sikka": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "simple-torrent": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "skybro": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "slink": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "smokeping": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "snapdrop": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "snort": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "snowflake": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "sqlitebrowser": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "stash": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "stremio": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "syslog-ng": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "tautulli": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "technitium-dns": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "thinkdashboard": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "threadfin": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "threema": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "torbrowser": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "transmute": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "trilium-notes": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "tubearchivist": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "turbodiffusionnvidia": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "twingateconnector": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "umami": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "urbit": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "v2raya": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "valorgrid": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z"
+  },
+  "vaultwarden": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "vikunja": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "virtmanager": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "wallos": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "watch-your-lan": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "wavelog": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "webcheck": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "webdav": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "wikijs": {
+   "hero": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "wireguard": {
+   "hero": "2026-09-27T07:00:00Z"
+  },
+  "wordpress": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "yucca": {
+   "hero": "2026-09-27T07:00:00Z",
+   "icon": "2026-09-27T07:00:00Z",
+   "screenshots": "2026-09-27T07:00:00Z"
+  },
+  "zabbix": {
+   "screenshots": "2026-09-27T07:00:00Z"
+  }
+ }
+}

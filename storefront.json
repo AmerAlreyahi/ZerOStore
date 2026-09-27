@@ -1,0 +1,185 @@
+{
+  "spotlight": [
+    "immich",
+    "jellyfin",
+    "home-assistant",
+    "nextcloud",
+    "vaultwarden",
+    "ollama",
+    "adguard-home"
+  ],
+  "sections": [
+    {
+      "id": "start-here",
+      "type": "appList",
+      "layout": "rail",
+      "subtitle": "Featured",
+      "title": "Start here",
+      "apps": [
+        "immich",
+        "jellyfin",
+        "nextcloud",
+        "vaultwarden",
+        "home-assistant",
+        "pi-hole",
+        "tailscale",
+        "syncthing"
+      ]
+    },
+    {
+      "id": "verified",
+      "type": "appList",
+      "layout": "grid",
+      "subtitle": "Tested by ZerOStore",
+      "title": "Verified on ZerOS",
+      "description": "Installed, opened and signed into on a real ZerOS server.",
+      "apps": [
+        "@verified"
+      ]
+    },
+    {
+      "id": "ai-at-home",
+      "type": "categoryFeature",
+      "category": "AI",
+      "textSide": "left",
+      "title": "AI that stays on your hardware.",
+      "description": "Chat with local models in Ollama and LibreChat, search the web privately with Perplexica, and keep every prompt at home.",
+      "apps": [
+        "ollama",
+        "librechat",
+        "perplexica",
+        "anythingllm"
+      ]
+    },
+    {
+      "id": "leave-the-cloud",
+      "type": "appList",
+      "layout": "grid",
+      "subtitle": "Swap a subscription",
+      "title": "Leave the cloud",
+      "apps": [
+        "immich",
+        "nextcloud",
+        "vaultwarden",
+        "jellyfin",
+        "actualbudget",
+        "memos",
+        "linkwarden",
+        "stirling-pdf",
+        "freshrss"
+      ]
+    },
+    {
+      "id": "movie-night",
+      "type": "categoryFeature",
+      "category": "Media",
+      "textSide": "right",
+      "title": "Your films, your music, every screen.",
+      "description": "Stream your library with Jellyfin or Plex, your music with Navidrome and your audiobooks with Audiobookshelf.",
+      "apps": [
+        "jellyfin",
+        "plex",
+        "navidrome",
+        "audiobookshelf"
+      ]
+    },
+    {
+      "id": "run-your-network",
+      "type": "appList",
+      "layout": "rail",
+      "subtitle": "Networking",
+      "title": "Run your own network",
+      "apps": [
+        "pi-hole",
+        "adguard-home",
+        "tailscale",
+        "nginx-proxy-manager",
+        "uptime-kuma",
+        "homarr"
+      ]
+    },
+    {
+      "id": "smart-home",
+      "type": "categoryFeature",
+      "category": "Home & Automation",
+      "textSide": "left",
+      "title": "A smarter home that answers to you.",
+      "description": "Home Assistant, Node-RED and ESPHome run your devices locally; Frigate watches your cameras without a cloud account.",
+      "apps": [
+        "home-assistant",
+        "node-red-standalone",
+        "esphome",
+        "mosquitto",
+        "frigate"
+      ]
+    },
+    {
+      "id": "for-makers",
+      "type": "appList",
+      "layout": "grid",
+      "subtitle": "Developer Tools",
+      "title": "Build on your own server",
+      "apps": [
+        "code-server",
+        "gitea",
+        "forgejo",
+        "portainer",
+        "n8n",
+        "excalidraw"
+      ]
+    },
+    {
+      "id": "hidden-gems",
+      "type": "appList",
+      "layout": "rail",
+      "subtitle": "Worth a look",
+      "title": "Hidden gems",
+      "apps": [
+        "wallos",
+        "mealie",
+        "trilium-notes",
+        "kavita",
+        "calibre-web",
+        "bazarr",
+        "grocy",
+        "metube"
+      ]
+    }
+  ],
+  "categories": {
+    "Files & Productivity": [
+      "nextcloud",
+      "immich",
+      "stirling-pdf"
+    ],
+    "AI": [
+      "ollama",
+      "librechat",
+      "perplexica"
+    ],
+    "Media": [
+      "jellyfin",
+      "plex",
+      "navidrome"
+    ],
+    "Networking": [
+      "pi-hole",
+      "adguard-home",
+      "tailscale"
+    ],
+    "Home & Automation": [
+      "home-assistant",
+      "node-red-standalone",
+      "esphome"
+    ],
+    "Developer Tools": [
+      "code-server",
+      "gitea",
+      "portainer"
+    ],
+    "Finance": [
+      "actualbudget",
+      "wallos"
+    ]
+  }
+}

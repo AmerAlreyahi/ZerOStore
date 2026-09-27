@@ -15,6 +15,10 @@ rewritten, pictures replaced), and includes material from:
   Copyright Umbrel, Inc. and its contributors. Published without a licence. Its recipes are
   included in adapted form; none of Umbrel's gallery artwork is included.
 
+Pictures in heroes/ and screenshots/ come from the CasaOS App Store or from each app's own project
+(its website's share picture, its repository's social preview, or the screenshots in its README),
+and belong to their owners; they are resized and shown only to present that app.
+
 Icons in icons/ that do not come from the CasaOS App Store are from dashboard-icons,
 https://github.com/homarr-labs/dashboard-icons, licensed under the Apache License, Version 2.0
 (LICENSES/Apache-2.0.txt), or from each project's own website.

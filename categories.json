@@ -1,12 +1,13 @@
 {
-  "Media": "Stream your films, shows, music and photos to every screen in the house.",
-  "Files": "Store, sync and share your files, on your own disks.",
-  "Productivity": "Notes, documents, tasks and tools that keep your work in your hands.",
-  "Home": "Automate your home and see what your devices are doing.",
-  "Networking": "Reach your server from anywhere, block ads and keep an eye on your network.",
+  "Files & Productivity": "Store, sync and share your files, and keep your notes, documents and tasks on your own disks.",
   "AI": "Run language models, assistants and speech tools on your own hardware.",
-  "Finance": "Track budgets, subscriptions and money, and run your own node.",
+  "Bitcoin": "Run your own node, your own Lightning, your own pool.",
+  "Media": "Stream your films, shows, music and photos to every screen in the house.",
+  "Finance": "Track budgets, subscriptions, invoices and wealth, privately.",
+  "Networking": "Reach your server from anywhere, block ads and keep an eye on your network.",
+  "Home & Automation": "Automate your home and see what your devices are doing.",
   "Social": "Chat, publish and connect without handing your data to a platform.",
-  "Developer": "Code, build, test and ship from your own server.",
-  "Others": "Everything else worth running at home."
+  "Developer Tools": "Code, build, test and ship from your own server.",
+  "Crypto": "Nodes and wallets for the rest of the crypto world.",
+  "Other": "Everything else worth running at home."
 }
