@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-27T05:31:57Z",
+  "updatedAt": "2026-09-27T05:39:35Z",
   "aliases": {
     "umbrel.hermes-agent": "org.icewhale.hermes",
     "umbrel.node-red": "",
@@ -121,7 +121,7 @@
     "glances": {
       "status": "verified",
       "version": "4.5.4",
-      "testedAt": "2026-09-26T00:00:00Z",
+      "testedAt": "2026-09-27T00:00:00Z",
       "notes": [
         "Installed, kept running and its web interface answered 200."
       ],
@@ -130,7 +130,7 @@
     "grocy": {
       "status": "verified",
       "version": "4.7.1",
-      "testedAt": "2026-09-26T00:00:00Z",
+      "testedAt": "2026-09-27T00:00:00Z",
       "notes": [
         "Installed, kept running and its web interface answered 302."
       ],
@@ -157,7 +157,7 @@
     "jellyfin": {
       "status": "verified",
       "version": "10.11.11-patch.3",
-      "testedAt": "2026-09-26T00:00:00Z",
+      "testedAt": "2026-09-27T00:00:00Z",
       "notes": [
         "Installed, kept running and its web interface answered 302."
       ],
@@ -417,7 +417,7 @@
     "wallos": {
       "status": "verified",
       "version": "5.8.1",
-      "testedAt": "2026-09-26T00:00:00Z",
+      "testedAt": "2026-09-27T00:00:00Z",
       "notes": [
         "Installed, kept running and its web interface answered 302."
       ],
