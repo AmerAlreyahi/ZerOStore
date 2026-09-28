@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-27T07:57:47Z",
+  "updatedAt": "2026-09-28T21:00:58Z",
   "aliases": {
     "umbrel.hermes-agent": "org.icewhale.hermes",
     "umbrel.node-red": "",
@@ -186,6 +186,14 @@
         "Its recipe pins an image version (kiwix-serve 3.8.2) that the image registry no longer serves, so it cannot be downloaded."
       ]
     },
+    "l-town": {
+      "status": "broken",
+      "version": "20260621",
+      "testedAt": "2026-09-28T00:00:00Z",
+      "notes": [
+        "Its image is no longer public, so it cannot be downloaded."
+      ]
+    },
     "librespeed": {
       "status": "verified",
       "version": "6.3.0",
@@ -239,6 +247,14 @@
         "Installed, kept running and its web interface answered 200."
       ],
       "source": "install"
+    },
+    "minio": {
+      "status": "broken",
+      "version": "RELEASE.2025-06-13T11-33-47Z-patch.1",
+      "testedAt": "2026-09-28T00:00:00Z",
+      "notes": [
+        "Its image (MinIO) is no longer published where its recipe points, so it cannot be downloaded."
+      ]
     },
     "mosquitto": {
       "status": "verified",
@@ -321,6 +337,14 @@
       ],
       "source": "install"
     },
+    "ragflow": {
+      "status": "broken",
+      "version": "0.21.1",
+      "testedAt": "2026-09-28T00:00:00Z",
+      "notes": [
+        "One of its images (MinIO) is no longer published where its recipe points, so it cannot be downloaded."
+      ]
+    },
     "searxng": {
       "status": "verified",
       "version": "2026.9.25",
@@ -329,6 +353,14 @@
         "Installed, kept running and its web interface answered 200."
       ],
       "source": "install"
+    },
+    "simple-torrent": {
+      "status": "broken",
+      "version": "1.3.9-hotfix-1",
+      "testedAt": "2026-09-28T00:00:00Z",
+      "notes": [
+        "Its image no longer exists, so it cannot be downloaded."
+      ]
     },
     "snapdrop": {
       "status": "verified",
@@ -356,6 +388,12 @@
         "Installed, kept running and its web interface answered 200."
       ],
       "source": "install"
+    },
+    "tailscale": {
+      "status": "incompatible",
+      "notes": [
+        "ZerOS has Tailscale built in: turn it on in Settings → Remote access. A second copy on the same server would fight it for the same network connection and could cut off remote access."
+      ]
     },
     "thelounge": {
       "status": "verified",
@@ -428,6 +466,14 @@
         "Installed, kept running and its web interface answered 302."
       ],
       "source": "install"
+    },
+    "weknora": {
+      "status": "broken",
+      "version": "0.2.14",
+      "testedAt": "2026-09-28T00:00:00Z",
+      "notes": [
+        "One of its images (MinIO) is no longer published where its recipe points, so it cannot be downloaded."
+      ]
     }
   }
 }
