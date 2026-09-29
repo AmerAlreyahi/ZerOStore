@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-28T21:00:58Z",
+  "updatedAt": "2026-09-29T11:59:16Z",
   "aliases": {
     "umbrel.hermes-agent": "org.icewhale.hermes",
     "umbrel.node-red": "",
@@ -27,6 +27,14 @@
         "Installed, kept running and its web interface answered 200."
       ],
       "source": "install"
+    },
+    "blinko": {
+      "status": "limited",
+      "version": "1.8.8-patch.1",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "It works, but ZerOS shows it as still starting: its health check needs a program the app does not include."
+      ]
     },
     "calibre-web": {
       "status": "verified",
@@ -63,6 +71,14 @@
         "Installed, kept running and its web interface answered 200."
       ],
       "source": "install"
+    },
+    "dify": {
+      "status": "broken",
+      "version": "0.15.8",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "Its network proxy keeps restarting because its configuration file is incomplete."
+      ]
     },
     "etherpad": {
       "status": "verified",
@@ -160,6 +176,14 @@
       ],
       "source": "install"
     },
+    "hugo": {
+      "status": "broken",
+      "version": "0.161.1",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "It starts a web server with no site to serve, so it exits and keeps restarting."
+      ]
+    },
     "jellyfin": {
       "status": "verified",
       "version": "10.11.11-patch.3",
@@ -168,6 +192,14 @@
         "Installed, kept running and its web interface answered 302."
       ],
       "source": "install"
+    },
+    "kan": {
+      "status": "limited",
+      "version": "0.6.0-patch.1",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "It works, but ZerOS shows it as degraded after its one-time database setup has finished."
+      ]
     },
     "kavita": {
       "status": "verified",
@@ -192,6 +224,14 @@
       "testedAt": "2026-09-28T00:00:00Z",
       "notes": [
         "Its image is no longer public, so it cannot be downloaded."
+      ]
+    },
+    "librechat": {
+      "status": "broken",
+      "version": "0.8.7-rc1",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "Two of its parts exit as they start and keep restarting."
       ]
     },
     "librespeed": {
@@ -282,6 +322,14 @@
         "Installed, kept running and its web interface answered 302."
       ],
       "source": "install"
+    },
+    "networkingtoolbox": {
+      "status": "limited",
+      "version": "1.6.0",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "It works, but its health check never reports ready, so ZerOS shows it as still starting."
+      ]
     },
     "nocodb": {
       "status": "verified",
@@ -395,6 +443,22 @@
         "ZerOS has Tailscale built in: turn it on in Settings → Remote access. A second copy on the same server would fight it for the same network connection and could cut off remote access."
       ]
     },
+    "taskingai": {
+      "status": "limited",
+      "version": "0.3.0",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "One of its parts does not start; the rest of the app works."
+      ]
+    },
+    "termix": {
+      "status": "limited",
+      "version": "2.8.0",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "It works, but its health check never reports ready, so ZerOS shows it as still starting."
+      ]
+    },
     "thelounge": {
       "status": "verified",
       "version": "4.4.3",
@@ -421,6 +485,14 @@
         "Installed, kept running and its web interface answered 200."
       ],
       "source": "install"
+    },
+    "twingateconnector": {
+      "status": "limited",
+      "version": "1.0.0",
+      "testedAt": "2026-09-29T00:00:00Z",
+      "notes": [
+        "It needs your Twingate network name and access tokens before it can start."
+      ]
     },
     "umami": {
       "status": "verified",
