@@ -1,0 +1,48 @@
+<!doctype html><meta charset=utf-8><title>ZerOStore preview</title>
+<style>
+:root{--bg:#070b1f;--panel:#0d1330;--line:rgba(255,255,255,.08);--txt:#eef1ff;--mut:#98a2c8;--acc:#7c8cff}
+*{box-sizing:border-box;margin:0}
+body{width:1600px;height:1000px;padding:40px;background:radial-gradient(1200px 700px at 80% -10%,#1d2a7a 0,transparent 60%),radial-gradient(900px 600px at 0 110%,#2a1466 0,transparent 55%),#050817;font:15px/1.4 Inter,"Segoe UI",system-ui,sans-serif;color:var(--txt)}
+.win{height:100%;display:flex;border-radius:22px;overflow:hidden;background:linear-gradient(160deg,#0f1642,#0a0f2c);border:1px solid var(--line);box-shadow:0 40px 100px rgba(0,0,0,.6)}
+aside{width:300px;padding:26px 20px;background:rgba(6,9,28,.6);border-right:1px solid var(--line);display:flex;flex-direction:column;gap:6px}
+h1{font-size:22px;font-weight:700;margin-bottom:14px;letter-spacing:-.3px}
+.search{height:42px;border-radius:21px;background:rgba(255,255,255,.06);border:1px solid var(--line);color:var(--mut);display:flex;align-items:center;padding:0 16px;margin-bottom:12px}
+.nav{display:flex;justify-content:space-between;padding:10px 14px;border-radius:10px;color:#c9d0f0;font-weight:500;font-size:14px}
+.nav b{font-weight:500;color:var(--mut);font-size:12px}
+.nav.on{background:rgba(124,140,255,.18);border:1px solid rgba(124,140,255,.35);color:#fff}
+.foot{margin-top:auto;color:var(--mut);font-size:12px}
+main{flex:1;padding:24px 30px;overflow:hidden}
+.tabs{display:inline-flex;padding:4px;border-radius:22px;background:rgba(255,255,255,.06);border:1px solid var(--line);margin-bottom:22px}
+.tabs span{padding:8px 20px;border-radius:18px;font-size:13px;font-weight:600;color:var(--mut)}
+.tabs .on{background:rgba(255,255,255,.12);color:#fff}
+.hero{position:relative;height:400px;border-radius:24px;overflow:hidden;background:#fff url(../heroes/immich.jpg) center/cover;box-shadow:0 20px 50px rgba(0,0,0,.45)}
+.bar{position:absolute;left:14px;right:14px;bottom:14px;height:112px;border-radius:16px;background:rgba(28,36,80,.72);backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.14);display:flex;align-items:center;padding:0 18px;gap:16px}
+.bar img{width:56px;height:56px;border-radius:14px;background:#fff;padding:6px}
+.bar small{font-size:11px;letter-spacing:1.5px;color:#a9b6ff;font-weight:700;text-transform:uppercase}
+.bar h2{font-size:26px;letter-spacing:-.4px}.bar p{color:#c3cbef;font-size:14px}
+.btn{margin-left:auto;background:#fff;color:#111a44;font-weight:600;border-radius:20px;padding:9px 20px;font-size:13px}
+.pager{position:absolute;top:14px;right:14px;background:rgba(20,26,60,.7);border-radius:20px;padding:8px 18px;font-size:12px;color:#bcc5ee}
+.sec small{display:block;margin:30px 0 4px;font-size:11px;letter-spacing:1.5px;color:#8fa0ff;font-weight:700;text-transform:uppercase}
+.sec h3{font-size:24px;letter-spacing:-.4px;margin-bottom:16px}
+.rail{display:flex;gap:14px}
+.card{width:186px;flex:none;padding:16px;border-radius:16px;background:rgba(255,255,255,.05);border:1px solid var(--line)}
+.card img{width:56px;height:56px;border-radius:14px;background:#fff;padding:5px;margin-bottom:14px}
+.card b{display:block;font-size:15px}.card p{color:var(--mut);font-size:12.5px;height:54px;margin:4px 0 8px}
+.card .btn{display:inline-block;margin:0;font-size:12px;padding:7px 16px;background:rgba(255,255,255,.92)}
+.v{color:#7ce3b0}
+</style>
+<div class=win><aside><h1>App Store</h1><div class=search>Search apps</div>
+<div class="nav on">Discover<b></b></div>
+<div class=nav>Files &amp; Productivity<b>108</b></div><div class=nav>AI<b>33</b></div><div class=nav>Bitcoin<b>13</b></div><div class=nav>Media<b>61</b></div><div class=nav>Finance<b>12</b></div><div class=nav>Networking<b>57</b></div><div class=nav>Home &amp; Automation<b>18</b></div><div class=nav>Social<b>20</b></div><div class=nav>Developer Tools<b>34</b></div><div class=nav>Crypto<b>4</b></div>
+<div class=foot>ZerOStore · 360 apps · updated Sep 28, 2026</div></aside>
+<main><div class=tabs><span class=on>Store</span><span>Custom apps</span></div>
+<div class=hero><div class=pager>1 / 7 &nbsp; ‹ &nbsp;❚❚&nbsp; ›</div>
+<div class=bar><img src=../icons/immich.svg><div><small>Files &amp; Productivity</small><h2>Immich</h2><p>High-performance photo and video backup solution</p></div><span class=btn>⭳ Install</span></div></div>
+<div class=sec><small>Featured</small><h3>Start here</h3><div class=rail>
+<div class=card><img src=../icons/immich.svg><b>Immich</b><p>High-performance photo and video backup solution</p><span class=btn>Install</span></div>
+<div class=card><img src=../icons/jellyfin.svg><b>Jellyfin <span class=v>✓</span></b><p>The Free Software Media System</p><span class=btn>Install</span></div>
+<div class=card><img src=../icons/nextcloud.svg><b>Nextcloud</b><p>Content collaboration platform</p><span class=btn>Install</span></div>
+<div class=card><img src=../icons/vaultwarden.svg><b>Vaultwarden</b><p>Unofficial Bitwarden® compatible server</p><span class=btn>Install</span></div>
+<div class=card><img src=../icons/home-assistant.svg><b>Home Assistant</b><p>Home automation that puts local control &amp; privacy first</p><span class=btn>Install</span></div>
+<div class=card><img src=../icons/pi-hole.svg><b>Pi-hole</b><p>Block ads on your network</p><span class=btn>Install</span></div>
+</div></div></main></div>

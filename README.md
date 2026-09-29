@@ -1,5 +1,9 @@
 # ZerOStore
 
+<p align="center">
+  <img src="docs/store-preview.png" alt="The ZerOStore app store in ZerOS: a spotlight carousel, categories and a Start here rail" width="900">
+</p>
+
 ZerOStore is the app store of [ZerOS](https://github.com/AmerZuher/ZerOS). It combines two
 existing stores, the [CasaOS App Store](https://github.com/IceWhaleTech/CasaOS-AppStore) and
 [Umbrel's app store](https://github.com/getumbrel/umbrel-apps), and adds what ZerOS knows about
