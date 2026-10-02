@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-29T11:59:16Z",
+  "updatedAt": "2026-10-02T21:09:53Z",
   "aliases": {
     "umbrel.hermes-agent": "org.icewhale.hermes",
     "umbrel.node-red": "",
@@ -519,7 +519,12 @@
       "notes": [
         "Installed, kept running and its web interface answered 200."
       ],
-      "source": "install"
+      "source": "install",
+      "needsHttps": true,
+      "secureOrigin": {
+        "service": "server",
+        "variable": "DOMAIN"
+      }
     },
     "vikunja": {
       "status": "verified",
