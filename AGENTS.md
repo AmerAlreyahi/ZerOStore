@@ -1,8 +1,8 @@
 # ZerOStore: notes for agents and maintainers
 
-ZerOStore is the app store of [ZerOS](https://github.com/AmerZuher/ZerOS). Every ZerOS server
+ZerOStore is the app store of [ZerOS](https://github.com/AmerAlreyahi/ZerOS). Every ZerOS server
 downloads one file from here, `catalog.json`, and shows the pictures this repository publishes
-through GitHub Pages (`https://amerzuher.github.io/ZerOStore/`). Nothing else is read at run time.
+through GitHub Pages (`https://ameralreyahi.github.io/ZerOStore/`). Nothing else is read at run time.
 
 `catalog.json` is **built, never edited by hand**. Change the inputs below, rebuild, check, push.
 
