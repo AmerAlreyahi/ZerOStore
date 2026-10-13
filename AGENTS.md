@@ -37,6 +37,7 @@ would read every app back. It takes about two minutes when the pictures are alre
 
 Useful flags:
 
+- `-only arcane,postgresql`: rebuild only selected existing app recipes and text with `-no-media`, retaining other entries, front-page metadata and findings; listing changes require a full rebuild.
 - `-no-media`: fetch no pictures; use what the checkout has (fast; for text or storefront changes).
 - `-refresh-media`: fetch every picture again (slow; only when pictures are wrong or stale).
 
