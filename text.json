@@ -1,5 +1,11 @@
 {
   "postgresql": {
     "setupNotes": "This recipe initializes PostgreSQL with user `casaos`, password `casaos`, and database `casaos`. These are the recipe defaults, not your ZerOS sign-in. Port 5432 speaks the PostgreSQL protocol; connect with a database client, not a browser. Change the default password with PostgreSQL administration before granting wider access. On an initialized data directory, changing POSTGRES_USER, POSTGRES_PASSWORD, or POSTGRES_DB in Compose does not change existing accounts or databases; use SQL administration and a backup instead."
+  },
+  "jellyfin": {
+    "icon": "https://raw.githubusercontent.com/jellyfin/jellyfin-ux/9e27258e873f64edaa9c5955e753978975ed5589/branding/SVG/icon-transparent.svg"
+  },
+  "jellyfinnvidia": {
+    "icon": "https://raw.githubusercontent.com/jellyfin/jellyfin-ux/9e27258e873f64edaa9c5955e753978975ed5589/branding/SVG/icon-transparent.svg"
   }
 }

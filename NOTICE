@@ -26,3 +26,9 @@ https://github.com/homarr-labs/dashboard-icons, licensed under the Apache Licens
 App names, logos and trademarks belong to their respective owners. ZerOStore is not affiliated with
 or endorsed by IceWhale Technology, Umbrel, Inc., or any app's developers. Each app keeps its own
 licence; ZerOStore only describes how to install it.
+
+Jellyfin and Jellyfin NVIDIA icons: official Jellyfin UX transparent icon,
+https://github.com/jellyfin/jellyfin-ux/blob/9e27258e873f64edaa9c5955e753978975ed5589/branding/SVG/icon-transparent.svg
+Copyright the Jellyfin contributors. Licensed under Creative Commons
+Attribution-ShareAlike 4.0 International (LICENSES/Jellyfin-CC-BY-SA-4.0.txt).
+Replaces the previous white-backed catalog artwork; the upstream SVG is preserved.
